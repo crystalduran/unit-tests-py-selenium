@@ -1,0 +1,9 @@
+# Archivos y directorios generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entorno virtual de Python (por ejemplo, creado con virtualenv o venv)
+venv/
+
